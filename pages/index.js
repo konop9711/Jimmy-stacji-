@@ -68,7 +68,7 @@ export default function Home() {
         <h1 className={styles.title}>Welcome to Jimmy staking!</h1>
 
         <p className={styles.description}>
-          Stake certain amount and get reward tokens back!
+          Stake $JIMMY amount and get reward $POL back!
         </p>
 
         <div className={styles.connect}>
